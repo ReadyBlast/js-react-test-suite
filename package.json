@@ -2,6 +2,7 @@
   "name": "js-react-test-suite",
   "version": "1.0.0",
   "description": "Test tasks for JS/React with Jest and RTL",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
